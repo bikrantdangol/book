@@ -203,7 +203,7 @@ transform: translateY(-6px);
 box-shadow: 0 6px 20px rgba(0,0,0,0.12);
 }
 
-/* SMALLER BOOK IMAGE */
+/* SMALLER BOOK IMAGE h8iiiii */
 .book-image {
 height: 220px;
 object-fit: cover;
